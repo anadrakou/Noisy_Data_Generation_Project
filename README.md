@@ -1,5 +1,16 @@
 # Noisy_Data_Generation_Project
 
+### Project Overview 
+This project focuses on the creation, manipulation, and analysis of a custom, noisy dataset using Python. The primary objectives are to deepen the understanding of the impact of noise in datasets, enhance Python programming skills, and compile comprehensive project documentation. This repository is a valuable resource for anyone looking to explore the challenges of working with noisy data in Python. It is especially useful for students, data scientists, and researchers interested in understanding the impact of data quality on analysis and machine learning models.
+
+### Table of Contents
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Steps to Reproduce](#steps-to-reproduce)
+- [Project Contributors](#project-contributors)
+- [Contact Information](#contact-information)
+<br>
+
 ### Introduction
 
 This file contains code to generate a synthetic dataset simulating a store's purchasing information. Follow these steps to reproduce the project on your local machine.
